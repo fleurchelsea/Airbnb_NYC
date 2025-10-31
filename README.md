@@ -11,6 +11,30 @@ The findings provide **data-driven insights** that can inform **pricing strategy
 
 ---
 
+## Measurement Plan
+
+| **Objective** | **KPI** | **Target** | **Timeframe** |
+|----------------|----------|-------------|---------------|
+| Optimize pricing & revenue | Revenue per available listing (RevPAL) | +10% | 6 months |
+| Improve occupancy | Occupancy rate | +8% | 6 months |
+| Grow long-stay segment | Avg. booking value (ABV) | +15% | 1 year |
+| Strengthen trust & engagement | Review satisfaction score | +0.3 pts | 6 months |
+
+---
+
+## Methodology
+
+- **Dataset:** [NYC Airbnb Open Data (2019, Kaggle)](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data)
+- **Tools:** Python (Pandas, Matplotlib, Seaborn), Tableau
+- **Approach:** Exploratory Data Analysis (EDA)
+- **Focus Areas:** Neighborhood, room type, reviews, minimum stay
+- **Techniques:**  
+  - Data cleaning and transformation  
+  - Logarithmic scaling for price normalization  
+  - Visualization for trend identification  
+
+---
+
 ### Key Insights
 
 1. **Location is the primary driver of price**
@@ -113,29 +137,4 @@ Based on the analysis of Airbnb listings across New York City, the following rec
 **Business Impact:**  
 → Smarter investment allocation and data-backed city engagement.  
 
----
-
-## Measurement Plan
-
-| **Objective** | **KPI** | **Target** | **Timeframe** |
-|----------------|----------|-------------|---------------|
-| Optimize pricing & revenue | Revenue per available listing (RevPAL) | +10% | 6 months |
-| Improve occupancy | Occupancy rate | +8% | 6 months |
-| Grow long-stay segment | Avg. booking value (ABV) | +15% | 1 year |
-| Strengthen trust & engagement | Review satisfaction score | +0.3 pts | 6 months |
-
----
-
-## Methodology
-
-- **Dataset:** [NYC Airbnb Open Data (2019, Kaggle)](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data)
-- **Tools:** Python (Pandas, Matplotlib, Seaborn), Tableau
-- **Approach:** Exploratory Data Analysis (EDA)
-- **Focus Areas:** Neighborhood, room type, reviews, minimum stay
-- **Techniques:**  
-  - Data cleaning and transformation  
-  - Logarithmic scaling for price normalization  
-  - Visualization for trend identification  
-
----
 
