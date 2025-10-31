@@ -26,7 +26,7 @@ The findings provide **data-driven insights** that can inform **pricing strategy
    - **Entire homes/apartments** are priced nearly **2× higher** than shared accommodations.
    - Private rooms occupy a mid-range price band with moderate variability.
 
-   ![Mean Price by Room Type in Manhattan](images/room_type_vs_price.png)
+   ![Mean Price by Room Type in Manhattan](images/room_type_vs_price1.png)
    > *Guests pay significantly more for privacy and exclusivity — a key opportunity for hosts targeting higher margins.*
 
 ---
@@ -115,20 +115,6 @@ Based on the analysis of Airbnb listings across New York City, the following rec
 
 ---
 
-### 5. Build a Data-Driven Pricing Dashboard
-**Insight:** Exploratory visualizations reveal multiple factors influencing price, but they’re static.  
-
-**Recommendation:**  
-- Develop an **interactive Tableau or Power BI dashboard** combining:  
-  - Dynamic price filters by neighborhood and room type  
-  - KPI tracking (RevPAL, occupancy, ALOS)  
-  - Scenario modeling (“what if” pricing simulations)  
-
-**Business Impact:**  
-→ Enables continuous monitoring, agile pricing decisions, and actionable insights for hosts or Airbnb’s pricing teams.  
-
----
-
 ## Measurement Plan
 
 | **Objective** | **KPI** | **Target** | **Timeframe** |
@@ -152,14 +138,4 @@ Based on the analysis of Airbnb listings across New York City, the following rec
   - Visualization for trend identification  
 
 ---
-
-## Limitations & Future Work
-
-- Dataset reflects 2019 data only (pre-pandemic)
-- Seasonality and amenity data not included
-- Descriptive (non-predictive) analysis — future work could apply machine learning models for price prediction or clustering
-
----
-
-## 📂 Repository Structure
 
