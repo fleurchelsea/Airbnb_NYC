@@ -1,4 +1,4 @@
-# What Drives Airbnb Prices in New York City?
+# How Can Airbnb Optimize Pricing and Revenue in NYC?
 
 > A data-driven exploration of what factors most influence Airbnb pricing across NYC neighborhoods — reframed through a business analytics lens.
 
